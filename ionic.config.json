@@ -1,0 +1,7 @@
+{
+  "name": "gastosApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
